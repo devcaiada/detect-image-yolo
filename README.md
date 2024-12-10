@@ -112,6 +112,8 @@ python detect.py
 
 ![resultado](https://github.com/devcaiada/detect-image-yolo/blob/main/output/resultado.jpg?raw=true)
 
+Cada caixa delimitadora apresenta a classificação do objeto e ao lado o percentual de certeza da classificação.
+
 ## Contribuição <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 Sinta-se à vontade para contribuir com este projeto. Você pode abrir issues para relatar problemas ou fazer pull requests para melhorias.
