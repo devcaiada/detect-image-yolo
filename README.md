@@ -100,7 +100,7 @@ Utilizamos matplotlib para exibir a imagem com as detecções e cv2.imwrite para
 
 1. Coloque a imagem que você deseja processar na pasta input com o nome sua_imagem.jpg.
 
-![image]()
+![image](https://github.com/devcaiada/detect-image-yolo/blob/main/input/image.jpg?raw=true)
 
 2. Execute o script:
 
@@ -110,7 +110,7 @@ python detect.py
 
 3. A imagem com as caixas delimitadoras e classificações será salva na pasta **output** com o nome **resultado.jpg**.
 
-![resultado]()
+![resultado](https://github.com/devcaiada/detect-image-yolo/blob/main/output/resultado.jpg?raw=true)
 
 ## Contribuição <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
